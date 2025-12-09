@@ -1,0 +1,14 @@
+Resumen de métricas YOLOv8 - Evaluación best.pt
+Modelo: resultado_metrica_best_yolov8_L_ADAMS_LR
+Split : test
+imgsz : 1024
+conf  : 0.25
+iou   : 0.5
+
+metrics/precision(B): 0.783706
+
+metrics/precision(B): 0.7837060833815298
+metrics/recall(B): 0.664707915658486
+metrics/mAP50(B): 0.7562378774797682
+metrics/mAP50-95(B): 0.5159151831288621
+fitness: 0.5159151831288621
